@@ -1,2 +1,2 @@
-# Periodic-Table-Databse
+# Periodic-Table-Database
 freeCodeCamp Project
